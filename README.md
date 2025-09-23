@@ -1,9 +1,7 @@
 - 👋 Hi, I’m @Lemniscate-2525
-- 👀 I’m interested in Data Aanalysis, Python programming and DSA using C++.
-- 🌱 I’m currently learning DSA using C++.
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in Competitive programming and DSA using C++. 
+- 🌱 I’m currently learning AIML from MASAI IITG.
 - 📫 How to reach me akshat.mishra2525@gmail.com
-- 😄 Pronouns: ...
 - ⚡ Fun fact: The symbol of infinity is called as a Lemniscate.
 
 <!---
